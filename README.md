@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br><br>Hi, I'm Akshay Dhar -  a Financial & Technology Data Analyst specializing in structured credit, market intelligence systems, and ML-driven financial analytics.<br><br>I design scalable data systems that transform complex financial disclosures, market news streams, and high-volume structured datasets into validated, decision-ready intelligence. My work sits at the intersection of finance, data engineering, and applied machine learning — where analytical rigor meets real-world business impact.<br><br>With 3+ years of experience across FinTech and analytics environments, I’ve worked on high-yield credit datasets, restructuring intelligence, regulatory-aligned reporting, and ML-powered automation pipelines. I focus not just on extracting insights — but on building reliable, governance-aligned systems that stakeholders can trust.<br><br>🔍 What I Focus On<br>📊 Financial Data Modeling & Reporting<br>🏦 Risk-Aligned Analytics & Compliance-Ready Datasets<br>🧠 Machine Learning for Financial Insights<br>⚙️ ETL Optimization & Automation Pipelines<br>📈 Time-Series Forecasting & Market Trend Analysis<br><br>🧱 How I Work<br>• I treat data quality as a first-class priority<br>• I build systems that reduce manual effort and operational risk<br>• I design analytics with both technical precision and business context<br>• I focus on measurable impact (efficiency gains, cost reduction, accuracy improvements)<br><br>🚀 Professional Philosophy<br><br>Data is only valuable when it is structured, validated, and aligned with decision-making frameworks.<br><br>I aim to build analytics systems that are:<br><br>• Scalable<br>• Transparent<br>• Risk-aware<br>• Automation-first<br>• Business-impact driven
 
-<!--
-**AKSHAYKUMARDHAR/AKSHAYKUMARDHAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshaydh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaykumardhar14@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AKSHAYKUMARDHAR&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AKSHAYKUMARDHAR&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYKUMARDHAR&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AKSHAYKUMARDHAR&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AKSHAYKUMARDHAR&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/akshaykumardhar) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
