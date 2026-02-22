@@ -10,7 +10,7 @@ Hi, I'm Akshay Dhar -  a Financial & Technology Data Analyst specializing in str
 
 # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumardhar&" alt="akshaykumardhar" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AKSHAYKUMARDHAR&theme=dracula)](https://git.io/streak-stats)
 
 
 
